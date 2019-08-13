@@ -1,5 +1,7 @@
 # Features of Dataset management tool
 
+![dataset-management-tool-features.jpeg](https://github.com/reouno/ai-maker-docs/blob/master/charts/dataset-management-tool-features.jpeg "features overview")
+
 These features are written from the user's perspective.
 
 - Creating dataset
