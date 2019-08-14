@@ -22,4 +22,4 @@ These features are written from the user's perspective.
   - cropping
     - manually
     - automatically by using object detection model such as YOLO v3
-  - split into 3 subsets as for train/test/validation
+  - split into 3 subsets as train/test/validation
